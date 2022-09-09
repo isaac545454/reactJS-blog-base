@@ -14,7 +14,7 @@ import Abolt from './pages/abolt/abolt';
 import Login from './pages/login/login';
 import CreatePost from './pages/createPost/createPost';
 import Deshboard from './pages/deshboard/deshboard'
-import Search from './pages/search/search'
+import Search from './pages/search/Search'
 import Post from './pages/post/post'
 import EditPost from './pages/editPost/editPost'
 
