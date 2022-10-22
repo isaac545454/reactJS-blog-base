@@ -19,7 +19,7 @@
   <li>criação de post</li>
   <li>alteração do posts</li>
   <li>deletar o posts</li>
-  <li>ler todos os posts<li>
+  <li>ler todos os posts</li>
   <li>ler os detalhes do posts<li>
 </ul>
 
