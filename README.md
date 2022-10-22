@@ -20,7 +20,7 @@
   <li>alteração do posts</li>
   <li>deletar o posts</li>
   <li>ler todos os posts</li>
-  <li>ler os detalhes do posts<li>
+  <li>ler os detalhes do posts</li>
 </ul>
 
 <h2 style="margin-top: 20px">como rodar</h2>
